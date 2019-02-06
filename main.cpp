@@ -1,5 +1,5 @@
 //AUTHOR: Carl "Tommy" Zumstein
-//FILENAME: p4.cpp
+//FILENAME: main.cpp
 //DATE: 2/22/17
 /*REVISION HISTORY:
 */
